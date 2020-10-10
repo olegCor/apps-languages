@@ -19,7 +19,7 @@ msgstr "Приложение Погода для Deepin v20"
 
 #: About.form:17 FMain.form:84
 msgid "About"
-msgstr Насчёт""
+msgstr "О программе"
 
 #: About.form:50
 msgid "https://app4deepin.com"
